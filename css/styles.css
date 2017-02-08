@@ -1,0 +1,36 @@
+.soccer {
+  text-align: left;
+  font-style: oblique;
+  font-size: 37px;
+}
+
+.baseball {
+  text-shadow: 3px 3px 3px red;
+  font-family: cursive;
+}
+
+.football {
+  text-align: right;
+  color: brown;
+}
+
+.bouncy {
+  background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 22px;
+  width: 90%;
+}
+
+.about {
+  font-weight: 600;
+  font-family: fantasy;
+}
+
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: red;
+}
