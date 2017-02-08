@@ -2,6 +2,7 @@
   text-align: left;
   font-style: oblique;
   font-size: 37px;
+  padding-left: 20px;
 }
 
 .baseball {
@@ -33,4 +34,10 @@ body {
 
 h1 {
   color: red;
+}
+
+div {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 5px red dashed;
 }
